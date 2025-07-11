@@ -15,7 +15,7 @@ const Resume = () => {
 
         <div className="resume_embed" style={{ textAlign: "center" }}>
           <object
-            data="/ProfessionalResume.pdf"
+            data="/AvasProfessionalResume.pdf"
             type="application/pdf"
             width="100%"
             height="800px"
