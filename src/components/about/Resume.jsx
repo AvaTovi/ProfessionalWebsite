@@ -22,7 +22,7 @@ const Resume = () => {
           >
             <p>
               Your browser does not support displaying PDFs.{" "}
-              <a href="/ProfessionalResume.pdf" target="_blank" rel="noreferrer">
+              <a href="/AvasProfessionalResume.pdf" target="_blank" rel="noreferrer">
                 Click here to view or download it.
               </a>
             </p>
@@ -31,7 +31,7 @@ const Resume = () => {
 
         <div style={{ textAlign: "center", marginTop: "20px" }}>
           <a
-            href="/ProfessionalResume.pdf"
+            href="/AvasProfessionalResume.pdf"
             className="ib-button"
             download
             target="_blank"
