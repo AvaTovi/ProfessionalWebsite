@@ -15,8 +15,9 @@ const Skills = () => {
         { id: 6, skillName: "- Python" },
         { id: 7, skillName: "- Java" },
         { id: 8, skillName: "- Racket" },
-        { id: 9, skillName: "- Tailwind CSS" },
-        { id: 10, skillName: "- HTML / CSS / XML" },
+        { id: 9, skillName: "- R" },
+        { id: 10, skillName: "- Tailwind CSS" },
+        { id: 11, skillName: "- HTML / CSS / XML" },
       ],
     },
     {

@@ -13,7 +13,7 @@ const Intro = () => {
           languages like C++, Java, JavaScript, TypeScript, Python, and web technologies like HTML and CSS.
         </p>
         <p>
-          I’m currently interning at SuperApps Inc., where 
+          I have interned at SuperApps Inc., where 
           I’ve gained experience building responsive and user-friendly 
           applications using React. I enjoy solving complex problems, 
           learning new technologies, and contributing to innovative software 
