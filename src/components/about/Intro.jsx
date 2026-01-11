@@ -39,7 +39,7 @@ const Intro = () => {
           alt="Ava Tovi"
           style={{
             width: "260px",   // shrink to a nice size
-            height: "100px",   // keep aspect ratio
+            height: "350px",   // keep aspect ratio
             borderRadius: "0", // remove circular/oval crop
           }}
         />
