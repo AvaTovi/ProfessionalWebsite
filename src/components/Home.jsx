@@ -30,7 +30,7 @@ const Home = () => {
             }}
           >
             <img
-              src="assets/img/personal/me1.jpg"
+              src="assets/img/personal/image0.jpeg"
               alt="Ava Tovi"
               style={{
                 width: "100%",
