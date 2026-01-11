@@ -38,8 +38,9 @@ const Intro = () => {
           src={introContent.image}
           alt="Ava Tovi"
           style={{
-            width: "auto",   // shrink to a nice size
+            maxWidth: "100%",   // shrink to a nice size
             height: "450px",   // keep aspect ratio
+            objectFit: 'contain',
             borderRadius: "0", // remove circular/oval crop
           }}
         />
