@@ -14,18 +14,18 @@ const Resume = () => {
         </div>
 
         <div className="resume_viewer" style={{ marginTop: "30px" }}>
-          <iframe
-            src="/Ava Tovi Resume.pdf"
-            width="100%"
-            height="800px"
-            style={{ border: "none", borderRadius: "8px" }}
-            title="Ava Tovi Resume"
-          />
+        <iframe
+          src="/resume.pdf"
+          width="100%"
+          height="800px"
+          style={{ border: "none", borderRadius: "8px" }}
+          title="Ava Tovi Resume"
+        />
         </div>
 
         <div style={{ textAlign: "center", marginTop: "20px" }}>
           <a
-            href="/Ava Tovi Resume.pdf"
+            href="/resume.pdf"
             className="ib-button"
             download
             target="_blank"
