@@ -15,14 +15,14 @@ const Resume = () => {
 
         <div className="resume_embed" style={{ textAlign: "center" }}>
           <object
-            data="/resume.pdf"
+            data="/resume1.pdf"
             type="application/pdf"
             width="100%"
             height="800px"
           >
             <p>
               Your browser does not support displaying PDFs.{" "}
-              <a href="/resume.pdf" target="_blank" rel="noreferrer">
+              <a href="/resume1.pdf" target="_blank" rel="noreferrer">
                 Click here to view or download it.
               </a>
             </p>
@@ -31,7 +31,7 @@ const Resume = () => {
 
         <div style={{ textAlign: "center", marginTop: "20px" }}>
           <a
-            href="/resume.pdf"
+            href="/resume1.pdf"
             className="ib-button"
             download
             target="_blank"
